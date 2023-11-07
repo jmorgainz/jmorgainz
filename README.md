@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **More typescript, tailwind, three.js**
 
- 💬 Ask me about **Node.js, React, MongoDB... or anything [here](https://github.com/jmorgainz/jmorgainz/issues)**
+ 💬 Ask me about **Node.js, React, MongoDB...
 
  ⚡ Fun fact **I love snowboarding, hiking, and golfing**
  
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,mysql" /><br>
 </div>
 
 <br/>
