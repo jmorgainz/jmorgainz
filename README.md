@@ -57,8 +57,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jmorgainz&background=202D2A68&stroke=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFFFE&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&fire=FFFFFF&ring=0C9FEB)](https://git.io/streak-stats)
     
-  <img width="390" src="https://streak-stats.demolab.com/demo/?user=jmorgainz&theme=default&hide_border=false&border_radius=4.5&locale=en&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&type=svg&background-type=solid&properties=background" />
 
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=jmorgainz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   
